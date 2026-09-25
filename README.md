@@ -20,10 +20,7 @@ An end-to-end multi-agent research assistant built with **LangGraph**, **Groq**,
 
 ## 🛠️ Architecture & Workflow
 
-```
-<img width="687" height="1373" alt="output" src="https://github.com/user-attachments/assets/74b7be87-cb12-4527-987a-a9958d268762" />
-
-```
+![System Architecture](https://github.com/user-attachments/assets/74b7be87-cb12-4527-987a-a9958d268762)
 
 ---
 
